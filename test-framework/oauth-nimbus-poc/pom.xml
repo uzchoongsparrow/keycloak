@@ -32,7 +32,7 @@
     <description>Nimbus OAuth PoC extension for Keycloak Test Framework</description>
 
     <properties>
-        <nimbus-sdk.version>11.13</nimbus-sdk.version>
+        <nimbus-sdk.version>11.22.2</nimbus-sdk.version>
     </properties>
 
     <dependencies>
