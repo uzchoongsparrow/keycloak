@@ -273,7 +273,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>
@@ -1545,7 +1545,7 @@
             <properties>
                 <ee.maven.groupId>org.jboss.eap</ee.maven.groupId>
                 <ee.maven.version>${eap8.version}</ee.maven.version>
-                <wildfly.version>${eap8.version}</wildfly.version>
+                <wildfly.version>30.0.0.Final</wildfly.version>
                 <wildfly.build-tools.version>${eap8.wildfly.build-tools.version}</wildfly.build-tools.version>
                 <wildfly.core.version>${eap8.wildfly.core.version}</wildfly.core.version>
                 <!-- relative directory for galleon pack with layer spec files -->
@@ -1566,7 +1566,7 @@
             <properties>
                 <ee.maven.groupId>org.wildfly</ee.maven.groupId>
                 <ee.maven.version>${upstream.wildfly.version}</ee.maven.version>
-                <wildfly.version>${upstream.wildfly.version}</wildfly.version>
+                <wildfly.version>30.0.0.Final</wildfly.version>
                 <wildfly.build-tools.version>${upstream.wildfly.build-tools.version}</wildfly.build-tools.version>
                 <wildfly.core.version>${upstream.wildfly.core.version}</wildfly.core.version>
                 <!-- relative directory for galleon pack with layer spec files -->
